@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Narek Musakhanyan
 
-<h1 align="center">Hi 👋, I'm Narek Musakhanyan</h1>
 <h3 align="center">Senior Mobile Software Engineer | React Native</h3>
 
 - 🔭 I’m currently working on **Lykke Business crypto exchange platform**
