@@ -4,8 +4,5 @@
 
 - 🔭 I’m currently working on **Lykke Business crypto exchange platform**
 
-<!-- - 📄 Know about my experiences [https://tinyurl.com/narek-resume](https://tinyurl.com/narek-resume) -->
-- 📄 Know about my experiences [https://www.linkedin.com/in/narek11/](https://www.linkedin.com/in/narek11/)
-
-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="narek11" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://am.linkedin.com/in/narek11?trk=profile-badge">Narek Musakhanyan</a></div>
-              
+- 📄 My CV [https://tinyurl.com/Narek-Musakhanyan-CV](https://tinyurl.com/Narek-Musakhanyan-CV)
+- 📄 Know about my experiences on Linkedin [https://www.linkedin.com/in/narek11/](https://www.linkedin.com/in/narek11/)
